@@ -1,0 +1,3 @@
+def g():
+  global big
+  big = file('big.txt').read()
